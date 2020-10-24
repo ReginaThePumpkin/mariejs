@@ -1,0 +1,19 @@
+﻿//Entrada y almacenamiento de variables
+input
+store A
+input
+store B
+
+load A
+add B
+
+//Salida de lo que está en el acumulador (La suma)
+output
+
+//Fin del programa
+halt
+
+//Declaración de variables
+A, DEC 0
+B, DEC 0 
+
