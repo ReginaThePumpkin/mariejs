@@ -1,0 +1,20 @@
+﻿//Entrada y almacenamiento de la entrada
+input
+store A
+input
+store B
+
+//Resta
+load A
+Subt B
+
+//Salida de lo que está en el acumulador (La resta)
+output
+
+//Fin del programa
+halt
+
+//Declaración de variables
+A, DEC 0
+B, DEC 0 
+
