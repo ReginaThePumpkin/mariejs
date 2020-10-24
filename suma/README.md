@@ -3,6 +3,7 @@
 ### Lectura de datos
 Se lee un dato en cada línea y se almacena en su respectiva variable
 ``` mas
+ input
  store A
  input
  store B
